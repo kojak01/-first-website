@@ -326,8 +326,10 @@ h3 {
   line-height: 60px;
   border-radius: 50%;
 }
-.footer i:hover {
+.footer i {
   transition: all 1s;
+}
+.footer i:hover {
   background-color: #0862e9;
   transform: scale(1.2);
 }
